@@ -54,6 +54,9 @@ This project analyzes subscription, user, and product usage data to identify rev
 ##  Dashboard Preview
 
 ![executive](https://github.com/user-attachments/assets/a38bd93e-cd09-43d5-b1c0-472999283065)
+![churn](https://github.com/user-attachments/assets/f3ff9949-0e96-47d4-a224-484f245c9622)
+![revenue](https://github.com/user-attachments/assets/1623449c-4df7-4ed8-9d88-903c105803a4)
+![risk](https://github.com/user-attachments/assets/370254bb-783a-429c-ab98-f4a11dbcbf4e)
 
 
 ---
